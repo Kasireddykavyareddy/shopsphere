@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { HiHeart, HiOutlineHeart } from "react-icons/hi2";
 import { toast } from "react-toastify";
 
-import { CartContext } from "../context/CartContext";
+import { CartContext } from "../context/temp";
 import { WishlistContext } from "../context/WishlistContext";
 
 import headphone from "../assets/headphone.jpg";
