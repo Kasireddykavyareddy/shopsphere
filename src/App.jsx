@@ -3,7 +3,7 @@ import { useState } from "react";
 
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import SearchBar from "./components/SearchBar";
+import SearchBar from "./components/Searchbar";
 import Products from "./components/Products";
 import Categories from "./components/Categories";
 import Footer from "./components/Footer";
