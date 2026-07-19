@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Link } from "react-router-dom";
 import { HiOutlineShoppingCart } from "react-icons/hi";
-import { CartContext } from "../context/temp";
+import { CartContext } from "../context/CartContext";
 
 function Cart() {
   const {

@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Link } from "react-router-dom";
 import { WishlistContext } from "../context/WishlistContext";
-import { CartContext } from "../context/temp";
+import { CartContext } from "../context/CartContext";
 
 function Wishlist() {
   const { wishlist, removeFromWishlist } = useContext(WishlistContext);

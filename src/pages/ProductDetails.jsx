@@ -6,7 +6,7 @@ import {
   HiOutlineHeart,
 } from "react-icons/hi";
 
-import { CartContext } from "../context/temp";
+import { CartContext } from "../context/CartContext";
 import { WishlistContext } from "../context/WishlistContext";
 
 import headphone from "../assets/headphone.jpg";
